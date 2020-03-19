@@ -6,7 +6,7 @@ from os.path import join
 from os import walk
 
 
-GPX_INPUT_DIR = './GPX/'
+GPX_INPUT_DIR = './GPX/Berlin'
 HTML_OUT_FILE = './gpx_berlin.html' 
 MAP_CENTER = [52.5200, 13.4050]
 MAP_ZOOM = 11
